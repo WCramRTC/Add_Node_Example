@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #191919;
+}
+
+#container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+#form {
+    border: 1px solid rgb(175, 174, 174);
+    width: 100%;
+    background: #2D4263;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+#content {
+    width: 100%;
+    height: 100px;
+}
+
+#display {
+    background-color: pink;
+    min-height: 500px;
+    border-radius: 10px;
+}
+
+.post {
+    width: 100%;
+    border: 4px solid rgb(165, 165, 165);
+    border-radius: 10px;
+    min-height: 100px;
+    padding: 20px;
+    margin-top: 20px;
+    font-weight: 700;
+    background-color: white;
+}
+
+
+.dark {
+    background-color: rgb(64, 23, 104);
+    color: rgb(236, 214, 87);
+
+}
